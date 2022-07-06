@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lousb like Louis and USB
+- 👀 I’m interested in Web & Software Development with a focus on creativity.
+- 🌱 I’m currently learning TypeScript and Angular
+- 📫 Reach me at louisjwyeth@gmail.com
